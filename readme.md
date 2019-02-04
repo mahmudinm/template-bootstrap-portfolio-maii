@@ -1,6 +1,6 @@
 # Screenshot
 
-<img src="https://github.com/mahmudinm/template-bootstrap-company-accel/blob/master/SCREENSHOT/previewAccel.png" width=800/>&nbsp;
+<img src="https://github.com/mahmudinm/template-bootstrap-portfolio-maii/blob/master/SCREENSHOT/previewMaii.png" width=800/>&nbsp;
 
 # Credits
 
