@@ -1,0 +1,38 @@
+@media (max-width: 768px) {
+	#home {
+		height: 90vh;
+	}
+
+	.inner__home {
+		margin-top: 200px;
+	}
+
+	.counter-title {
+		font-size: 12px;
+	}
+
+	.hovereffect h2{
+		margin-top: 25%;
+		font-size: 20px;
+	}
+	
+	.hovereffect a.info{
+		padding: 0;
+	}
+	
+	.home__text h1{
+		font-size: 20px;
+	}
+
+	.inner__home{
+		padding: 40px 20px;
+		text-align: left
+	}
+}
+
+@media (max-width: 992px) {
+	.respons--about {
+		text-align: left;
+		padding-bottom: 15px;
+	}
+}
